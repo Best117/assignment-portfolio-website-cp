@@ -15,3 +15,11 @@ h1 {
 div {
     text-align: center;
 }
+
+a {
+    color: blue;
+}
+
+a:visited {
+    color: darkblue
+}

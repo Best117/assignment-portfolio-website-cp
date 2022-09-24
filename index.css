@@ -1,7 +1,6 @@
 /*Crocifisso Pusateri 9/25/2022 Web Programming*/
 body {
-    background: DimGray;
-    margin: auto;
+    background: lightcoral;
 }
 
 header {
@@ -10,4 +9,9 @@ header {
 
 h1 {
     color: white;
+    text-align: center;
+}
+
+div {
+    text-align: center;
 }

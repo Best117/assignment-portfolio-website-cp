@@ -23,3 +23,8 @@ a {
 a:visited {
     color: darkblue
 }
+
+ul {
+    list-style-position: inside;
+    text-align: center;
+}
